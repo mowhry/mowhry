@@ -37,7 +37,7 @@ tuning into music 🎵, and exploring manga, manhwa, and light/web novels 📖.
 [![Skills](https://skillicons.dev/icons?i=docker,sqlite,mysql)](https://skillicons.dev)
 
 ###### Development Tools::
-[![Skills](https://skillicons.dev/icons?i=git,linux,debian,arch,vscode,pycharm,vim)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,linux,debian,arch,vscode,pycharm,vim,obsidian)](https://skillicons.dev)
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -28,16 +28,16 @@ tuning into music 🎵, and exploring manga, manhwa, and light/web novels 📖.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Languages & Syntax:
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)  
 
-###### Webdev Development:
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)
+###### Web Development:
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)  
 
-###### Deployment & Database:
-[![Skills](https://skillicons.dev/icons?i=docker,sqlite,mysql)](https://skillicons.dev)
+###### Deployment & Databases:
+[![Skills](https://skillicons.dev/icons?i=docker,sqlite,mysql)](https://skillicons.dev)  
 
-###### Development Tools::
-[![Skills](https://skillicons.dev/icons?i=git,linux,debian,arch,vscode,pycharm,vim,obsidian)](https://skillicons.dev)
+###### Development Tools:
+[![Skills](https://skillicons.dev/icons?i=git,linux,debian,arch,vscode,pycharm,vim,obsidian)](https://skillicons.dev)  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

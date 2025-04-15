@@ -8,7 +8,6 @@ I love to learn and build new, creative, and fun projects.
   - *HTML/CSS*
   - *TypeScript*
   - *Python*
-  - *CUDA*
 
 - 💻 I'm currently mastering:
   - *C*

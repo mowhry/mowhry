@@ -30,7 +30,7 @@ tuning into music 🎵, and exploring manga, manhwa, and light/web novels 📖.
 [![Skills](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)  
 
 ###### Web Development:
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)  
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,tailwind)](https://skillicons.dev)  
 
 ###### Deployment & Databases:
 [![Skills](https://skillicons.dev/icons?i=docker,sqlite,mysql)](https://skillicons.dev)  

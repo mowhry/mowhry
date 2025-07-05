@@ -16,7 +16,7 @@ I love to learn and build new, creative, and fun projects.
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 
-When I’m not immersed in technology, I love hanging out with friends 🍹, diving into video games 🎮,  
+When I’m not immersed in technology, I love diving into video games 🎮,  
 tuning into music 🎵, and exploring manga, manhwa, and light/web novels 📖.
 
 - 📫 Reach out to me at: <a href="mailto:jskiba@student.42.fr">jskiba@student.42.fr</a>

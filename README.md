@@ -1,23 +1,26 @@
 ![hello](assets/Hello.png)
 
-I am a **Software Engineering student** at **@42Paris**, currently pursuing my degree.  
-My goal is to strengthen my development skills and explore new technologies.  
-I love to learn and build new, creative, and fun projects.
+**Software Engineering Student @42Paris**  
+Passionate about building robust systems and exploring how things work under the hood
 
-- 📚 I’m currently learning:
-  - *HTML/CSS*
-  - *TypeScript*
-  - *Python*
+## 🔧 Currently working with:
+- **Systems:** C/C++, Python
+- **Web:** HTML/CSS, TypeScript  
+- **Infrastructure:** Docker, Linux, AWS (learning)
+- **Tools:** Git, Bash scripting
 
-- 💻 I'm currently mastering:
-  - *C*
-  - *C++*
+## 💡 What drives me:
+- Understanding how systems work at a deeper level  
+- Building reliable and efficient solutions
+- Continuous learning and problem-solving
 
-- 🚀 I’m eager to join new projects.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
+## 🎯 Currently exploring:
+Cloud infrastructure, system administration, and automation
 
-When I’m not immersed in technology, I love diving into video games 🎮,  
-tuning into music 🎵, and exploring manga, manhwa, and light/web novels 📖.
+## 🎮 When not coding:
+Gaming, music, manga/manhwa & light novels
+
+---
 
 - 📫 Reach out to me at: <a href="mailto:jskiba@student.42.fr">jskiba@student.42.fr</a>
 

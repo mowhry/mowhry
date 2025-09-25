@@ -47,5 +47,5 @@ Gaming, music, manga/manhwa & light novels
 
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mowhry&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats-jskbs-projects.vercel.app/api?username=mowhry&theme=nightowl&show_icons=true&count_private=true" />
 </td>

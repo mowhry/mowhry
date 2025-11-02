@@ -18,9 +18,6 @@ Passionate about building robust systems and exploring how things work under the
 ## 🎯 Currently exploring:
 Site Reliability Engineering, GitOps practices, and cloud-native architectures
 
-## 🎮 When not coding:
-Gaming, music, manga/manhwa & light novels
-
 ---
 
 - 📫 Reach out to me at: <a href="mailto:jskiba@student.42.fr">jskiba@student.42.fr</a>

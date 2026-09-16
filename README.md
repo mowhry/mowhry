@@ -49,10 +49,3 @@ Site Reliability Engineering, GitOps practices, Platform engineering, and cloud-
 
 ###### Development Tools:
 [![Skills](https://skillicons.dev/icons?i=git,github,debian,arch,vscode,vim,obsidian)](https://skillicons.dev)
-
-<br>
-
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats-two-mu-98.vercel.app/api?username=mowhry&theme=nightowl&show_icons=true&count_private=true" />
-</td>

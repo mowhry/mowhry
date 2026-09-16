@@ -50,10 +50,6 @@ Site Reliability Engineering, GitOps practices, Platform engineering, and cloud-
 ###### Development Tools:
 [![Skills](https://skillicons.dev/icons?i=git,github,debian,arch,vscode,vim,obsidian)](https://skillicons.dev)
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br>
 
 <tr>
